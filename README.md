@@ -2,7 +2,9 @@
 
 I'm Tobias Piraino, a Semi-Senior Node.js + NestJS backend developer based in Buenos Aires. With 3 years of professional experience, I specialize in building high-performance backend systems for web applications.
 
-👨‍💻 **Current Work**: I'm currently working at HENRY, an EdTech startup, where I focus on developing innovative solutions to enhance the learning experience.
+👨‍💻 **Current Work**: I'm currently working at UMA-Health, a health-tech startup.
+
+👨‍💻 **Past Work-Places**: HENRY, an EdTech startup.
 
 📚 **Education**: I'm pursuing a degree in systems at UNQ (Universidad Nacional de Quilmes), deepening my knowledge of software development and system architecture.
 
