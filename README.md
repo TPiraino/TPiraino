@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Tobias Piraino, a Semi-Senior Node.js + NestJS backend developer based in Buenos Aires. With 3 years of professional experience, I specialize in building high-performance backend systems for web applications.
+I'm Tobias Piraino, a Semi-Senior Node.js + NestJS backend developer based in Buenos Aires. With +3 years of professional experience, I specialize in building high-performance backend systems for web applications.
 
 👨‍💻 **Current Work**: I'm currently working at UMA-Health, a health-tech startup.
 
